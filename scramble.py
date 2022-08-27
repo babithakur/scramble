@@ -1,5 +1,5 @@
 import random
-words = ["python", "java", "ruby", "perl", "roshan", "saru", "cyper",
+words = ["python", "java", "ruby", "perl", "prototype", "docker", "shell",
              "hacker", "anonymous", "metasploit", "malang", "goat", "love",
              "omega", "programming", "coding", "music", "website", "javascript",
              "laptop", "wireshark"]
