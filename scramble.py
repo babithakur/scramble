@@ -1,7 +1,7 @@
 import random
 words = ["python", "java", "ruby", "perl", "prototype", "docker", "shell",
-             "hacker", "anonymous", "metasploit", "malang", "goat", "love",
-             "omega", "programming", "coding", "music", "website", "javascript",
+             "hacker", "anonymous", "metasploit", "port", "nikto", "bash",
+             "discord", "programming", "coding", "music", "website", "javascript",
              "laptop", "wireshark"]
 #shuffled = ''.join(random.sample(word, len(word)))
 print("GUESS THE WORD :)\n")
